@@ -3,7 +3,7 @@ Basic Visitor Registration form Created with C#
 
 Project / Business Overview:
 
-You have been asked to create a simple desktop application to be used as a visitor registration system at reception desks of companies.
+You have been asked to create a simple desktop application to be used as a visitor registration system at reception desks of companies. 
 
 The requirement is that visitors to the company must be able to register by means of entering some details about themselves and the meeting. The form should also enable user to record their meeting times as well.
 
@@ -23,8 +23,7 @@ SR05:	Apply validation on Email field	(Could - Done)
 SR06: On the click of meeting aim button, it should open Form 2 as shown in Figure 2 (Must)
 SR07:	Once you select the meeting aim it should also change the text of meeting aim button with the same text that you selected from the form 2	(Must)
 SR08:	On the click of cancel button, no option will be selected on the main form (Could)
-SR09:	Once all information collected, add that into the In-Progress meeting list (ListBox) (Must)
-SR10:	Write a custom method to clear all the fields of the form once information transferred to the In-Progress meeting list (Must)
+SR09:	Once all information collected, add that into the In-Progress meeting list (ListBox) (Must)SR10:	Write a custom method to clear all the fields of the form once information transferred to the In-Progress meeting list (Must)
 SR11:	Enable receptionist to delete the meeting from the In-progress meeting list once visitor leaves	(Could - Done)
 SR12: Produce a specification document for the application known as Software Requirement Specification it must include:
     Title Page
@@ -41,8 +40,9 @@ SR13: Produce the user help document for the developed application it must addre
     How to insert meeting info into Listbox
     How to delete a meeting
     Any possible mistakes
-Attach your document to the with a proper name (STUDENTID_PROJECT_SRNUMBER.docx)	(Must)
-
+Attach your document to the with a proper name (STUDENTID_PROJECT_SRNUMBER.docx) (Must)
+SR14: Prepare a document explaining difference between Procedural and Object Oriented Programming	Attach your document to the with a proper name (Must)
+SR15: Prepare a document explaining the concept of Number and Coding System	Attach your document to the with a proper name (Must)
 SR16: Create a Test Plan for the Application that you have developed it must address the following:
     Cover Page
     Introduction
