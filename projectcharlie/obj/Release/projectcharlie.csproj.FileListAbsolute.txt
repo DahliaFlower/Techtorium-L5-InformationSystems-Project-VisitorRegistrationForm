@@ -1,0 +1,17 @@
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\bin\Release\projectcharlie.exe.config
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\bin\Release\projectcharlie.exe
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\bin\Release\projectcharlie.pdb
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.csproj.AssemblyReference.cache
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.visitorRegForm.resources
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.meetingAimForm.resources
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.Properties.Resources.resources
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.csproj.GenerateResource.cache
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.csproj.CoreCompileInputs.cache
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.exe
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.pdb
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\bin\Release\EntityFramework.dll
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\bin\Release\EntityFramework.xml
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Annette Bigby\source\repos\projectcharlie\projectcharlie\obj\Release\projectcharlie.csproj.CopyComplete
